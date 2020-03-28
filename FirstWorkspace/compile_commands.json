@@ -1,5 +1,5 @@
 [{
-  "file": "/Users/allansaunders/Desktop/Docs/C_projects/FirstWorkspace/FirstProgram/main.cpp",
-  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/FirstWorkspace/FirstProgram",
-  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/FirstWorkspace/FirstProgram/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/FirstWorkspace/FirstProgram/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/FirstWorkspace/FirstProgram/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/FirstWorkspace/FirstProgram",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/FirstWorkspace/FirstProgram/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/FirstWorkspace/FirstProgram/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }]

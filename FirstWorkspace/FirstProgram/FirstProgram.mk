@@ -5,15 +5,15 @@
 ## Debug
 ProjectName            :=FirstProgram
 ConfigurationName      :=Debug
-WorkspacePath          :=/Users/allansaunders/Desktop/Docs/C_projects/FirstWorkspace
-ProjectPath            :=/Users/allansaunders/Desktop/Docs/C_projects/FirstWorkspace/FirstProgram
+WorkspacePath          :=/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/FirstWorkspace
+ProjectPath            :=/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/FirstWorkspace/FirstProgram
 IntermediateDirectory  :=./Debug
 OutDir                 := $(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Allan Saunders
-Date                   :=09/01/2020
+Date                   :=27/03/2020
 CodeLitePath           :="/Users/allansaunders/Library/Application Support/CodeLite"
 LinkerName             :=/usr/bin/g++
 SharedObjectLinkerName :=/usr/bin/g++ -dynamiclib -fPIC
@@ -92,7 +92,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp $(IntermediateDirectory)/main.cpp$(DependSuffix)
-	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/allansaunders/Desktop/Docs/C_projects/FirstWorkspace/FirstProgram/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/FirstWorkspace/FirstProgram/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(DependSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM main.cpp
 

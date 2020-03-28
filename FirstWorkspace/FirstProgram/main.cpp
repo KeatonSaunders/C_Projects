@@ -1,5 +1,11 @@
 #include <iostream>
 
+/********************************************************
+ * Author: Keaton Saunders
+ * Date: 11 January 2020
+ * Copyright etc.
+ ********************************************************/
+
 int main() 
 {
     int favourite_number;
