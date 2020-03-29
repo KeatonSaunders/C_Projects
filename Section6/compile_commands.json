@@ -1,0 +1,17 @@
+[{
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/Constants/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/Constants",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/Constants/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/Constants/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/SizeOfOperator/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/SizeOfOperator",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/SizeOfOperator/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/SizeOfOperator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/PrimitiveTypes/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/PrimitiveTypes",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/PrimitiveTypes/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/PrimitiveTypes/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/InitializingVariables/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/InitializingVariables",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/InitializingVariables/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section6/InitializingVariables/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
