@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section7" Database="" Version="10.0.0">
+  <Project Name="InitializingArrays" Path="InitializingArrays/InitializingArrays.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="InitializingArrays" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="InitializingArrays" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
