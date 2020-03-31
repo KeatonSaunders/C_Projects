@@ -1,0 +1,29 @@
+[{
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/RelationalOperators/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/RelationalOperators",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/RelationalOperators/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/RelationalOperators/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/EqualityOperators/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/EqualityOperators",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/EqualityOperators/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/EqualityOperators/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/MixedExpressions/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/MixedExpressions",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/MixedExpressions/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/MixedExpressions/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/LogicalOperators/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/LogicalOperators",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/LogicalOperators/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/LogicalOperators/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/IncrementDecrement/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/IncrementDecrement",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/IncrementDecrement/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/IncrementDecrement/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/Euros/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/Euros",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/Euros/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/Euros/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/AssignmentOperator/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/AssignmentOperator",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/AssignmentOperator/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section8/AssignmentOperator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
