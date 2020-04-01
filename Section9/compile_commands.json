@@ -1,0 +1,49 @@
+[{
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/NestedLoops/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/NestedLoops",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/NestedLoops/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/NestedLoops/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/Shipping/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/Shipping",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/Shipping/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/Shipping/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ForLoop/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ForLoop",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ForLoop/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ForLoop/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ConditionalOperator/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ConditionalOperator",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ConditionalOperator/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ConditionalOperator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/DoWhileLoop/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/DoWhileLoop",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/DoWhileLoop/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/DoWhileLoop/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/RangeBasedForLoop/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/RangeBasedForLoop",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/RangeBasedForLoop/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/RangeBasedForLoop/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/SwitchEnum/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/SwitchEnum",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/SwitchEnum/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/SwitchEnum/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/SwitchStatement/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/SwitchStatement",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/SwitchStatement/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/SwitchStatement/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/NestedIf/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/NestedIf",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/NestedIf/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/NestedIf/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ElseIfStatement/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ElseIfStatement",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ElseIfStatement/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/ElseIfStatement/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/WhileLoop/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/WhileLoop",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/WhileLoop/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/WhileLoop/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/IfStatement/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/IfStatement",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/IfStatement/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section9/IfStatement/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
