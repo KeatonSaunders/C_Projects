@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ DefaultArguments - Debug ]----------"
-	@cd "DefaultArguments" && "$(MAKE)" -f  "DefaultArguments.mk"
+	@echo "----------Building project:[ Factorial - Debug ]----------"
+	@cd "Factorial" && "$(MAKE)" -f  "Factorial.mk"
 clean:
-	@echo "----------Cleaning project:[ DefaultArguments - Debug ]----------"
-	@cd "DefaultArguments" && "$(MAKE)" -f  "DefaultArguments.mk" clean
+	@echo "----------Cleaning project:[ Factorial - Debug ]----------"
+	@cd "Factorial" && "$(MAKE)" -f  "Factorial.mk" clean

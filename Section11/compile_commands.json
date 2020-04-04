@@ -1,7 +1,31 @@
 [{
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Factorial/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Factorial",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Factorial/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Factorial/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/HowFunctionCallsWork/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/HowFunctionCallsWork",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/HowFunctionCallsWork/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/HowFunctionCallsWork/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Fibonacci/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Fibonacci",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Fibonacci/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Fibonacci/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
   "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/DefaultArguments/main.cpp",
   "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/DefaultArguments",
   "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/DefaultArguments/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/DefaultArguments/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/ScopeExample/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/ScopeExample",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/ScopeExample/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/ScopeExample/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Math/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Math",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Math/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Math/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionOverloading/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionOverloading",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionOverloading/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionOverloading/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
   "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionPrototypes/main.cpp",
   "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionPrototypes",
@@ -11,6 +35,10 @@
   "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionParameters",
   "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionParameters/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionParameters/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/PassByReference/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/PassByReference",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/PassByReference/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/PassByReference/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
   "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Random/main.cpp",
   "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Random",
   "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Random/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Random/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
@@ -19,7 +47,7 @@
   "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionDefinitions",
   "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionDefinitions/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/FunctionDefinitions/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Math/main.cpp",
-  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Math",
-  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Math/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/Math/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/ArraysAndFunctions/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/ArraysAndFunctions",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/ArraysAndFunctions/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section11/ArraysAndFunctions/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }]
