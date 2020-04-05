@@ -1,0 +1,45 @@
+[{
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/Debugger/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/Debugger",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/Debugger/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/Debugger/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/References/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/References",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/References/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/References/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/ReturnPointer/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/ReturnPointer",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/ReturnPointer/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/ReturnPointer/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers3/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers3",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers3/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers1/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers1",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers1/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers2/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers2",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers2/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PassingPointers2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/DynamicMemory/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/DynamicMemory",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/DynamicMemory/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/DynamicMemory/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/SimplePointers/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/SimplePointers",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/SimplePointers/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/SimplePointers/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/ArraysAndPointers/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/ArraysAndPointers",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/ArraysAndPointers/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/ArraysAndPointers/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/Dereference/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/Dereference",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/Dereference/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/Dereference/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PointerArithmetic/main.cpp",
+  "directory": "/Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PointerArithmetic",
+  "command": "clang  -c /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PointerArithmetic/main.cpp -o /Users/allansaunders/Desktop/Docs/C_projects/C++_Projects/Section12/PointerArithmetic/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
