@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="OperatorOverloading" Database="" Version="10000">
+  <Project Name="MyStringStart" Path="MyStringStart/MyStringStart.project" Active="No"/>
+  <Project Name="MyStringCopy" Path="MyStringCopy/MyStringCopy.project" Active="No"/>
+  <Project Name="MyStringMove" Path="MyStringMove/MyStringMove.project" Active="No"/>
+  <Project Name="MyStringOperatorMethods" Path="MyStringOperatorMethods/MyStringOperatorMethods.project" Active="No"/>
+  <Project Name="MyStringOperatorGlobal" Path="MyStringOperatorGlobal/MyStringOperatorGlobal.project" Active="No"/>
+  <Project Name="MyStringInsertionExtraction" Path="MyStringInsertionExtraction/MyStringInsertionExtraction.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MyStringStart" ConfigName="Debug"/>
+      <Project Name="MyStringCopy" ConfigName="Debug"/>
+      <Project Name="MyStringMove" ConfigName="Debug"/>
+      <Project Name="MyStringOperatorMethods" ConfigName="Debug"/>
+      <Project Name="MyStringOperatorGlobal" ConfigName="Debug"/>
+      <Project Name="MyStringInsertionExtraction" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MyStringStart" ConfigName="Release"/>
+      <Project Name="MyStringCopy" ConfigName="Release"/>
+      <Project Name="MyStringMove" ConfigName="Release"/>
+      <Project Name="MyStringOperatorMethods" ConfigName="Release"/>
+      <Project Name="MyStringOperatorGlobal" ConfigName="Release"/>
+      <Project Name="MyStringInsertionExtraction" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
