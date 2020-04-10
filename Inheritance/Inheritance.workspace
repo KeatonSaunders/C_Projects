@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Inheritance" Database="" Version="10000">
+  <Project Name="DerivingFirstClass" Path="DerivingFirstClass/DerivingFirstClass.project" Active="No"/>
+  <Project Name="ProtectedMembersClassAccess" Path="ProtectedMembersClassAccess/ProtectedMembersClassAccess.project" Active="No"/>
+  <Project Name="ConstructorsAndDestructors" Path="ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
+  <Project Name="BaseClassInitialization" Path="BaseClassInitialization/BaseClassInitialization.project" Active="No"/>
+  <Project Name="CopyConstructorAssignmentOperator" Path="CopyConstructorAssignmentOperator/CopyConstructorAssignmentOperator.project" Active="No"/>
+  <Project Name="RedefiningBassClassMethods" Path="RedefiningBassClassMethods/RedefiningBassClassMethods.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DerivingFirstClass" ConfigName="Debug"/>
+      <Project Name="ProtectedMembersClassAccess" ConfigName="Debug"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
+      <Project Name="BaseClassInitialization" ConfigName="Debug"/>
+      <Project Name="CopyConstructorAssignmentOperator" ConfigName="Debug"/>
+      <Project Name="RedefiningBassClassMethods" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DerivingFirstClass" ConfigName="Release"/>
+      <Project Name="ProtectedMembersClassAccess" ConfigName="Release"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
+      <Project Name="BaseClassInitialization" ConfigName="Release"/>
+      <Project Name="CopyConstructorAssignmentOperator" ConfigName="Release"/>
+      <Project Name="RedefiningBassClassMethods" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
