@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ RedefiningBassClassMethods - Debug ]----------"
-	@cd "RedefiningBassClassMethods" && "$(MAKE)" -f  "RedefiningBassClassMethods.mk"
+	@echo "----------Building project:[ Challenge - Debug ]----------"
+	@cd "Challenge" && "$(MAKE)" -f  "Challenge.mk"
 clean:
-	@echo "----------Cleaning project:[ RedefiningBassClassMethods - Debug ]----------"
-	@cd "RedefiningBassClassMethods" && "$(MAKE)" -f  "RedefiningBassClassMethods.mk" clean
+	@echo "----------Cleaning project:[ Challenge - Debug ]----------"
+	@cd "Challenge" && "$(MAKE)" -f  "Challenge.mk" clean
