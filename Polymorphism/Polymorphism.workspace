@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Polymorphism" Database="" Version="10000">
+  <Project Name="TheProblem" Path="TheProblem/TheProblem.project" Active="No"/>
+  <Project Name="BassClassPointers" Path="BassClassPointers/BassClassPointers.project" Active="No"/>
+  <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project" Active="No"/>
+  <Project Name="VirtualDestructors" Path="VirtualDestructors/VirtualDestructors.project" Active="No"/>
+  <Project Name="UsingOverride" Path="UsingOverride/UsingOverride.project" Active="No"/>
+  <Project Name="BassClassReferences" Path="BassClassReferences/BassClassReferences.project" Active="No"/>
+  <Project Name="PureVirtualFunctions" Path="PureVirtualFunctions/PureVirtualFunctions.project" Active="No"/>
+  <Project Name="InterfacesStart" Path="InterfacesStart/InterfacesStart.project" Active="No"/>
+  <Project Name="InterfaceEnd" Path="InterfaceEnd/InterfaceEnd.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="TheProblem" ConfigName="Debug"/>
+      <Project Name="BassClassPointers" ConfigName="Debug"/>
+      <Project Name="VirtualFunctions" ConfigName="Debug"/>
+      <Project Name="VirtualDestructors" ConfigName="Debug"/>
+      <Project Name="UsingOverride" ConfigName="Debug"/>
+      <Project Name="BassClassReferences" ConfigName="Debug"/>
+      <Project Name="PureVirtualFunctions" ConfigName="Debug"/>
+      <Project Name="InterfacesStart" ConfigName="Debug"/>
+      <Project Name="InterfaceEnd" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TheProblem" ConfigName="Release"/>
+      <Project Name="BassClassPointers" ConfigName="Release"/>
+      <Project Name="VirtualFunctions" ConfigName="Release"/>
+      <Project Name="VirtualDestructors" ConfigName="Release"/>
+      <Project Name="UsingOverride" ConfigName="Release"/>
+      <Project Name="BassClassReferences" ConfigName="Release"/>
+      <Project Name="PureVirtualFunctions" ConfigName="Release"/>
+      <Project Name="InterfacesStart" ConfigName="Release"/>
+      <Project Name="InterfaceEnd" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
